@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Haris-Ahmed98
-- 👀 I’m mobile, web developer and data scientist
+- 👀 I’m mobile, web developer and data analyst
 - 💞️ I’m looking to collaborate with other specialist in this field
 
 
